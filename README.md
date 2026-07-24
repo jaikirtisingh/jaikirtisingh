@@ -13,9 +13,8 @@
 - 🌱 Currently learning Artificial Intelligence
 - 🎯 Goal: Become a Software Engineer and build impactful products
 
----
+ ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -26,8 +25,6 @@
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:thakurjk825@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
