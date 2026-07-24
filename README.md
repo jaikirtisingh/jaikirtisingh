@@ -20,61 +20,51 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](TUMHARA_LINKEDIN_LINK)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-](TUMHARA_INSTAGRAM_LINK)
+](https://www.linkedin.com/in/jaikirt-singh-4b32372a1)
 [
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:TUMHARA_EMAIL)
+](mailto:thakurjk825@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+ ## 💻 Tech Stack
 
+<p align="center">
+<b>Languages & Web</b><br>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+</p>
 
-![HTML5](https://skillicons.dev/icons?i=html)
+<p align="center">
+<b>Data Science & ML</b><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>
+</p>
 
+<p align="center">
+<b>Analytics Tools</b><br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
+</p>
 
+<p align="center">
+<b>Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</p>
 
+---
 
-![CSS3](https://skillicons.dev/icons?i=css)
-
-
-
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-
-
-
-![React](https://skillicons.dev/icons?i=react)
-
-
-
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-
-
-
-![Express](https://skillicons.dev/icons?i=express)
-
-
-
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-
-
-
-![Python](https://skillicons.dev/icons?i=python)
-
-
+**Tools**
 
 
 ![Git](https://skillicons.dev/icons?i=git)
@@ -122,13 +112,14 @@
 ## 📌 Current Focus
 - 🔭 Building TUMHARA_PROJECT
 - 🌱 Learning Artificial Intelligence
-- 📚 Improving DSA & Full Stack skills
+- 📚 Improving Data Science & Full Stack skills
 
 ---
 
 ## ⭐ Currently Learning
 - Artificial Intelligence
-- React.js
-- Node.js
+- Advanced Python for Data Science
 
 ---
+
+
