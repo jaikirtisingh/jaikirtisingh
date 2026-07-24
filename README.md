@@ -1,21 +1,28 @@
- 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jaikirtisingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jaikirtisingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaikirtisingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="TUMHARI_PHOTO_KA_LINK_YAHA" width="150" align="right"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaikirtisingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaikirtisingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Hi 👋, I'm Jai Singh
+### 💻 Full Stack Developer | 📊 Data Analytics Enthusiast | ☁️ Cloud Learner
 
 ---
-[![](https://komarev.com/ghpvc/?username=jaikirtisingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+- 🎓 B.Tech Computer Science
+- 💻 Passionate about building real-world Data & Full Stack projects
+- 📊 Interested in Data Analytics, Python & SQL
+- 🌱 Currently learning Cloud Computing & DevOps
+- 🎯 Goal: Become a Software Engineer and build impactful products
+
+---
+
+## 🌐 Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](TUMHARA_LINKEDIN_LINK)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](TUMHARA_INSTAGRAM_LINK)
+[![Email](https://img.shields.io/badge/Ema
