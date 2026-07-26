@@ -1,95 +1,56 @@
-<img src="TUMHARI_PHOTO_KA_LINK" width="150" align="right"/>
+<div align="center">
 
-# Hi 👋, I'm Jai Kirti Singh
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Jaikirti%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-### 🚀 Full Stack Developer | 📊 Data Science Enthusiast | 🤖 AI Learner
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+[
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+(AI)
 
-## 🙋‍♂️ About Me
-- 🎓 B.Tech Computer Science Engineering (Artificial Intelligence) @ Babu Banarasi Das University (2023–2027)
-- 💻 Passionate about building real-world Full Stack Applications
-- 📊 Interested in Data Science, SQL & Python
-- 🌱 Currently learning Artificial Intelligence
-- 🎯 Goal: Become a Software Engineer and build impactful products
++Student;Python+%7C+SQL+%7C+Excel+%7C+ML+Enthusiast;DSA+Grinder+%7C+C%2B%2B+%7C+LeetCode;Data+Analysis+%7C+Feature+Engineering;Placement-Ready+%7C+Aptitude+Prep)](https://git.io/typing-svg)
 
- ## 🌐 Connect With Me
+<br/>
+
+<!-- ═══════════════ BADGES ROW ═══════════════ -->
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaikirtisingh&label=Profile+Views&color=0e75b6&style=flat-square)
+
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/jaikirtisingh?label=Followers&style=flat-square&logo=github)
 
-](https://www.linkedin.com/in/jaikirt-singh-4b32372a1)
+](https://github.com/jaikirtisingh)
 [
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/jaikirtisingh?label=Total%20Stars&style=flat-square&logo=github)
 
-](mailto:thakurjk825@gmail.com)
+](https://github.com/jaikirtisingh)
+[
 
-## 💻 Tech Stack
+![Repos](https://badges.pufler.dev/repos/jaikirtisingh?color=blue&style=flat-square)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+](https://github.com/jaikirtisingh?tab=repositories)
 
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ whoami`
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaikirtisingh&theme=dark)
-
-
-
-
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaikirtisingh&theme=react-dark)
-
-
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| **eCommerce SQL Analysis** | SQL-based analysis project on e-commerce data |
-| **Traffic Analysis** | Data analysis project on traffic patterns |
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jaikirtisingh/jaikirtisingh/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-### 🚀 Daily GitHub Update
-
-## 📅 Current Focus
-
-- 📚 Preparing for TCS Prime (Paper on 11th)
-- 🌱 Learning Artificial Intelligence
-- 💻 Improving DSA & SQL skills
-
-## 🌱 Currently Learning
-
-- Artificial Intelligence
-- Advanced Python for Data Science
-
-## ✨ Upcoming Features
-
-- New Data Science Projects
-- More SQL Case Studies
-
----
+```bash
+{
+  "name"        : "Jaikirti Singh",
+  "degree"      : "B.Tech CSE (AI) — Final Year",
+  "focus"       : "Data Analysis & Machine Learning",
+  "languages"   : ["Python", "C++", "HTML", "CSS", "JavaScript"],
+  "data_ml"     : ["NumPy", "Pandas", "Matplotlib", "Seaborn", "scikit-learn", "TensorFlow"],
+  "backend"     : "Django",
+  "database"    : "SQL",
+  "tools"       : "Excel",
+  "dsa"         : "C++ (in progress)",
+  "vibe"        : "chai ☕ + music 🎧 + terminal 💻",
+  "status"      : "actively building & grinding 🔥"
+}
